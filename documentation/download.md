@@ -1,4 +1,4 @@
-# How to download the repository
+# How to download this repository
 
 ## Requirements:
 * VSCode (Use the one installed through WIPLib)
@@ -12,7 +12,7 @@
 4. Override the default branch name to "main", press "Next" ten more times.
 5. After installing Git, restart the computer.
 
-## How & where to download a repository.
+## How to download a GitHub repository.
 
 1. Open file explorer.
 2. Go into Documents and make sure there is a folder called `JavaData`.
