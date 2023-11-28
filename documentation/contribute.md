@@ -17,4 +17,4 @@
 ![Hovering over the "Source Control" section in VSCode](../assets/contributions/VSCodeSourceControl.png)
 2. Click the + icon to stage changes, when you stage changes you mark them as ready to be comitted.
 ![Hovering over "Stage Changes" button in VSCode](../assets/contributions/VSCodeStageChanges.png)
-3. Fill in a commit message, you may be tempted to have generic names however it will be easier to search the repository's GitHub ![Hovering over "Commit Changes" button in VSCode](../assets/contributions/VSCodeCommitChanges.png)
+3. Fill in a commit message, you may be tempted to have generic names however it will be easier to search the repository's GitHub. I typically begin my commit messages with "add():, fix():, docs():, update():, etc..." ![Hovering over "Commit Changes" button in VSCode](../assets/contributions/VSCodeCommitChanges.png)
