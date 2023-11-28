@@ -7,9 +7,15 @@
 
 ## How to sign into VSCode with a GitHub account.
 1. Find the account section.
+
+
 ![Hovering over the account button in VSCode](../assets/contributions/VSCodeAccounts.png)
+
 2. Select "Turn on cloud changes".
+
+
 ![Hovering over the "Turn on cloud changes" in VSCode](../assets/contributions/VSCodeCloudChanges.png)
+
 3. Select "Sign in with GitHub"
 
 ## How to commit changes
