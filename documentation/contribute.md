@@ -33,3 +33,6 @@
 
 
 ![Hovering over "Commit Changes" button in VSCode](../assets/contributions/VSCodeCommitChanges.png)
+
+
+4. [Submit a Pull Request (PR) for your changes](pull-requests.md).
