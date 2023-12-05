@@ -2,7 +2,7 @@
 
 ## Requirements
 1. [A GitHub Account](https://github.com/signup)
-2. [A repository](download.md#how-to-download-a-github-repository)
+2. [A fork](download.md)
 3. [Git](download.md#how-to-download-git)
 
 ## How to sign into VSCode with a GitHub account.
@@ -33,3 +33,6 @@
 
 
 ![Hovering over "Commit Changes" button in VSCode](../assets/contributions/VSCodeCommitChanges.png)
+
+
+4. [Submit a Pull Request (PR) for your changes](pull-requests.md).
